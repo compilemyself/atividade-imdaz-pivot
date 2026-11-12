@@ -1,0 +1,31 @@
+ATALHOS PRINCIPAIS — PIVOT ANIMATOR
+
+ARQUIVOS
+Ctrl + N  → Nova animação
+Ctrl + S  → Salvar projeto
+
+EDIÇÃO
+Ctrl + Z  → Desfazer
+Ctrl + Y  → Refazer
+Ctrl + C  → Copiar figura
+Ctrl + V  → Colar figura
+Delete    → Apagar figura selecionada
+
+ANIMAÇÃO
+← / →     → Ir para o quadro anterior ou seguinte
+Espaço    → Reproduzir / Pausar a animação
+
+MOUSE
+Clique e arraste       → Mover um ponto
+Ctrl + clique/arraste  → Esticar ou encolher um segmento
+Clique direito         → Dobrar um segmento para o outro lado
+Roda do mouse          → Aproximar ou afastar a visão
+
+EDITOR DE FIGURAS
+D        → Duplicar o segmento selecionado
+A        → Adicionar um novo segmento
+S        → Travar ou destravar um segmento (ele não acompanha os outros)
+Delete   → Apagar o segmento selecionado
+Ctrl     → Mover a figura inteira sem alterar sua forma
+
+Dica: salve seu projeto de tempos em tempos (Ctrl + S)!
